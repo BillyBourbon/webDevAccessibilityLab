@@ -16,10 +16,13 @@ footer {
 
 #logo {
   text-align: center;
+  a {
+    color: red;
+  }
 }
 
 header {
-  background-color: grey;
+  background-color: #263248;
 }
 
 header h1 {
